@@ -10,3 +10,7 @@ My Ruby is not terrible. My HTML, CSS, and JavaScript skills are fledgling. I un
 
 I know MVC well enough, but have never implemented it in code, and I know very little about REST, or the rest of the things he mentions.
 
+"The Ruby on Rails Tutorial takes an integrated approach to web development by building three example applications of increasing sophistication, starting with a minimal hello app (Section 1.3), a slightly more capable toy app (Chapter 2), and a real sample app (Chapter 3 through Chapter 12)."
+
+Nice so we'll do some work, the first app will be lame probably, the second one could be more interesting. The third will be more challenging for sure.
+
