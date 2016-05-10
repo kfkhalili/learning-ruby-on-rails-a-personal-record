@@ -53,6 +53,6 @@ This section has details about how information and code are displayed. Skimming 
 * We follow the / style of UNIX file systems.
 * We specify path of the files within the app directory, not globally.
 * Google your errors.
-* 
+* The tutorial covers testing Rails apps. Code for failing tests is in ```red``` and for passing tests in green.
 * 
 * 
