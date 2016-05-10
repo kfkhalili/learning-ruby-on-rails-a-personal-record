@@ -37,4 +37,8 @@ The third chapter onto the end of the tutorial will be about building the twitte
 
 ### Prerequisites
 
+* The tutorial is self-sufficient. Sounds good.
+* Having a background in HTML and programming helps. I'm safe.
+* He repeats that complete beginners have completed his tutorial, no problem.
+* 
 
