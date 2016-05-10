@@ -22,11 +22,18 @@ The second chapter is about the second, more serious project. This chapter will 
 
 The third chapter onto the end of the tutorial will be about building the twitter-like website and learning a whole lot. The second app will evolve into the third and final, sample app.
 
-Introduction
+
+## Introduction
 
 * In 2004, David Heinemeier Hansson wrote the Rails framework using the Ruby programming language. It has evolved into a powerful tool, used in several billion dollar companies. 
-* Since then, the Ruby on Rails framework has grown to be so large that it pretty much has its own chunk of the web development industry. 
-* 
+* Since then, the Ruby on Rails framework has grown to be so large that it pretty much has its own chunk of the web development industry.
+* It is 100% open-source, available under the MIT License.
+* Rails relies on awesome Ruby.
+* Rails creates a domain-specific language for writing web applications. This means that generating data models and routing URLs is simpler with Rails. This leads to rapid web development.
+*  Full use of REST architectural style for structuring web applications.
+*  Rails has a very active community so googling errors helps a lot.
 
+
+### Prerequisites
 
 
