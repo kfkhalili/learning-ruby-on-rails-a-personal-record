@@ -39,6 +39,7 @@ The third chapter onto the end of the tutorial will be about building the twitte
 
 * The tutorial is self-sufficient. Sounds good.
 * Having a background in HTML and programming helps. I'm safe.
-* He repeats that complete beginners have completed his tutorial, no problem.
+* He repeats that complete beginners have completed his tutorial. Reassuring.
+* He says doing the tutorial twice has helped some people. Yeah, maaaaaybe.
+* If you have no programming experience, you should learn Ruby. No problem here.
 * 
-
