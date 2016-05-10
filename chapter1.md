@@ -50,3 +50,9 @@ The third chapter onto the end of the tutorial will be about building the twitte
 This section has details about how information and code are displayed. Skimming through.
 
 * $ means Unix-style terminal.
+* We follow the / style of UNIX file systems.
+* We specify path of the files within the app directory, not globally.
+* Google your errors.
+* 
+* 
+* 
