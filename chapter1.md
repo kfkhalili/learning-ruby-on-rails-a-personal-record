@@ -31,7 +31,7 @@ The third chapter onto the end of the tutorial will be about building the twitte
 * Rails relies on awesome Ruby.
 * Rails creates a domain-specific language for writing web applications. This means that generating data models and routing URLs is simpler with Rails. This leads to rapid web development.
 *  Full use of REST architectural style for structuring web applications.
-*  Rails creator always updates the project so you're always benefiting from new features in web development.
+*  Rails creator always updates the library and that means new features.
 *  Rails has a very active community so googling errors helps a lot.
 
 
@@ -43,4 +43,10 @@ The third chapter onto the end of the tutorial will be about building the twitte
 * He says doing the tutorial twice has helped some people. Yeah, maaaaaybe.
 * If you have no programming experience, you should learn Ruby. No problem here.
 * If you're excited about making web apps and don't want to wait, then there is a tutorial called [Try Ruby](http://tryruby.org/) that one can try.
-* 
+* By the end of the tutorial, we'll be intermediate to advanced in skill and ready for more advanced resources.
+
+### Conventions in this book
+
+This section has details about how information and code are displayed. Skimming through.
+
+* $ means Unix-style terminal.
