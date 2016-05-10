@@ -16,4 +16,10 @@ Nice so we'll do some work, the first app will be lame probably, the second one 
 
 Reading a little deeper reveals that the third website will be a lot like twitter, that will be useful for my future projects. Mr Hartl assures us that we will learn generic principles, which are always the best to learn. He also says that your skills don't need to be high and that the book has proven to be pretty popular with complete beginners. He also promises to have made changes that aim to "lower the barrier to getting started with Rails"
 
+First chapter task is to install necessary software and setup the git repository. We will conclude the task with deploying our first simple app to the web, I guess on Heroku.
+
+The second chapter is about the second, more serious project. This chapter will demonstrate the basic workings of a Rails application.
+
+The third chapter onto the end will be about building the twitter-like website. 
+
 
