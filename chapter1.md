@@ -58,4 +58,6 @@ This section has details about how information and code are displayed. Skimming 
 
 ## Up and running
 
+### Development Evironment
 
+We'll use the cloud integrated development environment, [Cloud9](). Three essentially components: a text editor, file system navigator, and a command-line interface are provided.
