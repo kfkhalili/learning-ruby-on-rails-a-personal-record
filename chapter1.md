@@ -31,6 +31,7 @@ The third chapter onto the end of the tutorial will be about building the twitte
 * Rails relies on awesome Ruby.
 * Rails creates a domain-specific language for writing web applications. This means that generating data models and routing URLs is simpler with Rails. This leads to rapid web development.
 *  Full use of REST architectural style for structuring web applications.
+*  Rails creator always updates the project so you're always benefiting from new features in web development.
 *  Rails has a very active community so googling errors helps a lot.
 
 
