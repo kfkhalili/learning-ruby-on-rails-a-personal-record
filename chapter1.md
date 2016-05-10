@@ -42,4 +42,4 @@ The third chapter onto the end of the tutorial will be about building the twitte
 * He repeats that complete beginners have completed his tutorial. Reassuring.
 * He says doing the tutorial twice has helped some people. Yeah, maaaaaybe.
 * If you have no programming experience, you should learn Ruby. No problem here.
-* 
+* If you're excited about making web apps and don't want to wait, then there is a tutorial called [Try Ruby](http://tryruby.org/)
