@@ -61,3 +61,11 @@ This section has details about how information and code are displayed. Skimming 
 ### Development Environment
 
 We'll use the cloud integrated development environment, [Cloud9](http://c9.io/). We get a text editor, file system navigator, and a command line interface for free.
+
+In this stage, we create the environment on Cloud9, and install Rails.
+
+To install Ruby on Rails with a specific version.
+```$ gem install rails -v 4.2.2```
+
+To create our first app, with a specific version.
+```$ rails _4.2.2_ new hello_app```
