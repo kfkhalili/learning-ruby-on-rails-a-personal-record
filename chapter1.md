@@ -73,9 +73,9 @@ $ gem install rails -v 4.2.2
 To create our first app, with a specific version.
 ```$ rails _4.2.2_ new hello_app```
 
+The ```rails``` command creates files and directories and is part of the advantages of convention over configuration. Benefits include obtaining a minimal application and being able to navigate other people's projects.
 
 
-The ```rails``` command creates files and directories and is part of the advantages of convention over configuration. Benefits include being able to navigate other people's projects
 
 
 
