@@ -60,4 +60,4 @@ This section has details about how information and code are displayed. Skimming 
 
 ### Development Environment
 
-We'll use the cloud integrated development environment, [Cloud9](http://c9.io/). A text editor, file system navigator, and a command line interface, these three components are provided to us.
+We'll use the cloud integrated development environment, [Cloud9](http://c9.io/). We get a text editor, file system navigator, and a command line interface for free.
