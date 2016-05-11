@@ -12,7 +12,7 @@ I know MVC well enough, but have never implemented it in code, and I know little
 
 "The Ruby on Rails Tutorial takes an integrated approach to web development by building three example applications of increasing sophistication, starting with a minimal hello app (Section 1.3), a slightly more capable toy app (Chapter 2), and a real sample app (Chapter 3 through Chapter 12)."
 
-Nice so we'll do some work, the first app will be lame probably, the second one could be more interesting. The third will be more challenging for sure.
+Nice so we'll do some work, the first app will probably be lame, the second one could be more interesting. The third will be more challenging for sure.
 
 Reading a little deeper reveals that the third website will be a lot like twitter, that will be useful for my future projects. Mr Hartl assures us that we will learn generic principles, which are always the best to learn. He also says that your skills don't need to be high and that the book has proven to be pretty popular with complete beginners. He also promises to have made changes that aim to "lower the barrier to getting started with Rails"
 
