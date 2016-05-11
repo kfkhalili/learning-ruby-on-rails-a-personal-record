@@ -2,15 +2,15 @@
 
 Valuable information from the first chapter.
 
-"If you are new to the subject, the Ruby on Rails Tutorial will give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment—sufficient to launch you on a career as a web developer or technology entrepreneur."
+> If you are new to the subject, the Ruby on Rails Tutorial will give you a thorough introduction to web application development, including a basic grounding in Ruby, Rails, HTML & CSS, databases, version control, testing, and deployment—sufficient to launch you on a career as a web developer or technology entrepreneur.
 
 My Ruby is not terrible. My HTML, CSS, and JavaScript skills are fledgling. I understand databases and my SQL is pretty good. I can use Git as well as any person so that's all good. I understand Test Driven Development, more or less. This part of the book would be helpful.
 
-"On the other hand, if you already know web development, this book will quickly teach you the essentials of the Rails framework, including MVC and REST, generators, migrations, routing, and embedded Ruby."
+> On the other hand, if you already know web development, this book will quickly teach you the essentials of the Rails framework, including MVC and REST, generators, migrations, routing, and embedded Ruby.
 
 I know MVC well enough, but have never implemented it in code, and I know little about REST, or the rest of the things he mentions.
 
-"The Ruby on Rails Tutorial takes an integrated approach to web development by building three example applications of increasing sophistication, starting with a minimal hello app (Section 1.3), a slightly more capable toy app (Chapter 2), and a real sample app (Chapter 3 through Chapter 12)."
+> The Ruby on Rails Tutorial takes an integrated approach to web development by building three example applications of increasing sophistication, starting with a minimal hello app (Section 1.3), a slightly more capable toy app (Chapter 2), and a real sample app (Chapter 3 through Chapter 12).
 
 Nice so we'll do some work, the first app will probably be lame, the second one could be more interesting. The third will be more challenging for sure.
 
@@ -25,7 +25,7 @@ The third chapter onto the end of the tutorial will be about building the twitte
 
 ## Introduction
 
-* In 2004, David Heinemeier Hansson wrote the Rails framework using the Ruby programming language. It has evolved into a powerful tool, used in several billion dollar companies. 
+* In 2004, David Heinemeier Hansson wrote the Rails framework using the Ruby programming language. It has evolved into a powerful tool, used in multi-million dollar companies. 
 * Since then, the Ruby on Rails framework has grown to be so large that it pretty much has its own chunk of the web development industry.
 * It is 100% open-source, available under the MIT License.
 * Rails relies on awesome Ruby.
