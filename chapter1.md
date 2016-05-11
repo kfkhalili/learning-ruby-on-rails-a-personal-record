@@ -69,3 +69,4 @@ To install Ruby on Rails with a specific version.
 
 To create our first app, with a specific version.
 ```$ rails _4.2.2_ new hello_app```
+
